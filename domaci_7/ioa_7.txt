@@ -1,0 +1,9 @@
+Konacna minimalna f-ja nakon 20 ponavljanja je 0
+A tacke su [1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0,
+ 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1]
+
+File size: 1699 bytes
+Rešenje je prihvaćeno.
+Fajl domaci_7.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-12-02-18-53-42_domaci_7.zip
+Sačuvajte ovu poruku kao potvrdu prijema.

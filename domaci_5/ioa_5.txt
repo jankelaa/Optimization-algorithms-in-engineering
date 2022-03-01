@@ -1,0 +1,10 @@
+Vrednost minimalne pronadjene optimizacione funkcije je 0.001715828027306622
+Dobijeni koeficijenti su:
+(1.0770343218342862, 3.1634230246778325, 3.384391409919655, 7.093780358438685, 1.9548338218272636,
+-6.952379140686521, -9.999996060330464, 6.836124834884295, -0.009651740306277513, 9.014846474509005)
+
+File size: 1382 bytes
+Rešenje je prihvaćeno.
+Fajl domaci_5.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-11-17-18-34-11_domaci_5.zip
+Sačuvajte ovu poruku kao potvrdu prijema.

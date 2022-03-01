@@ -1,0 +1,9 @@
+Minimum optimizacione f-je je 11.297765607534346
+S1(2.9650207510644955, 3.8308881032702837, 0.8706731640591823)
+S2(4.384638647526377, 4.493541047737264, 1.5003438200977441)
+
+File size: 1299 bytes
+Rešenje je prihvaćeno.
+Fajl domaci_10.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-12-25-19-42-54_domaci_10.zip
+Sačuvajte ovu poruku kao potvrdu prijema.

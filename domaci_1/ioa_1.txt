@@ -1,0 +1,8 @@
+a)pretraga u 4 petlje bez permutacija, optimizaciona funkcija se izvrsava ~2 milijarde puta
+b)pretraga u 3 petlje bez permutacija, optimizaciona funkcija se izvrsava ~60 miliona puta
+c)brza je pretraga pod b)
+
+Rešenje je prihvaceno.
+Fajl domaci_1.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-10-14-14-07-53_domaci_1.zip
+Sacuvajte ovu poruku kao potvrdu prijema.

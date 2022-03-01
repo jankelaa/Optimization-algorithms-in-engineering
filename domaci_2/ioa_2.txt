@@ -1,0 +1,7 @@
+a) razdaljina je 81.4925, a redosled obilaska 8 7 3 2 1 5 6 4
+b) razdaljina je 130.163, a redosled obilaska 4 6 9 10 11 8 7 5 1 2 3 12
+
+Rešenje je prihvaceno.
+Fajl domaci_2.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-10-16-16-24-00_domaci_2.zip
+Sacuvajte ovu poruku kao potvrdu prijema.

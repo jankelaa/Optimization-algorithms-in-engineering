@@ -1,0 +1,8 @@
+Minimum optimizacione f-je je 5.003280115291919e-32
+A tacke su [7.500000000000003, -7.499999999999999, -9.424777960769383, 4.077422742688571, 2.999999999999999, -0.9999999999999991]
+
+File size: 1607 bytes
+Rešenje je prihvaćeno.
+Fajl domaci_9.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-12-22-20-30-09_domaci_9.zip
+Sačuvajte ovu poruku kao potvrdu prijema.

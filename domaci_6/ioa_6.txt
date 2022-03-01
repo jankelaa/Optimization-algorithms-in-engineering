@@ -1,0 +1,13 @@
+Necelobrojna resenja su:
+[0, 10, 0, 0, 0, 3.14859997, 8.63875793, 4.2126421, 0, 1.85140003, 3.67703154, 2.47156843]
+Odgovarajuci maksimalni racunski kapacitet je 11915.52631531 
+
+Celobrojna resenja su:
+[0, 10, 0, 0, 0, 6, 11, 7, 0, 4, 6, 5]
+Odgovarajuci maksimalni racunski kapacitet je 11895
+
+File size: 1366 bytes
+Rešenje je prihvaćeno.
+Fajl domaci_6.zip je uspešno poslat.
+Snimljen je pod imenom: Z2016_0694_2020-11-24-05-19-04_domaci_6.zip
+Sačuvajte ovu poruku kao potvrdu prijema.
